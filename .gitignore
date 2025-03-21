@@ -1,0 +1,6 @@
+*.class
+.vscode
+target/
+config.sh
+resources/
+*.model
